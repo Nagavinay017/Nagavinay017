@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Nagavinay017
+- 👋 Hi, I’m @Nagavinay Chinthada
+- 💞️ I’m a Full Stack Developer and I love making websites.
 - 👀 I’m interested in learning new things !
 - 🌱 I’m a Cyber Security Enthusiastic.
-- 💞️ I worked on Web Devolpment and i love making websites.
-
-
